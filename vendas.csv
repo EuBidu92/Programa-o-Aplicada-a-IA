@@ -1,0 +1,11 @@
+id,data,produto,quantidade,preco,cliente
+1,2026-01-10,Notebook,2,3500.00,Joao
+2,2026-01-11,Mouse,5,80.00,Maria
+3,2026-01-12,Teclado,3,150.00,Pedro
+4,2026-01-13,Notebook,1,3500.00,Ana
+5,2026-01-14,Mouse,10,80.00,Joao
+6,2026-01-15,Monitor,2,1200.00,Maria
+7,2026-01-16,Teclado,4,150.00,Pedro
+8,2026-01-17,Notebook,1,3500.00,Carlos
+9,2026-01-18,Mouse,8,80.00,Ana
+10,2026-01-19,Monitor,3,1200.00,Joao
