@@ -9,7 +9,7 @@ from sqlalchemy.orm import sessionmaker, declarative_base
 # ==========================================
 
 DB_USER = "root"
-DB_PASSWORD = "SENHA_REMOVIDA"
+DB_PASSWORD = "SuaSenha"
 DB_HOST = "localhost"
 DB_PORT = "3306"
 DB_NAME = "atendimentos_db"
